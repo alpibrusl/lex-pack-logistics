@@ -1,12 +1,11 @@
 [package]
 name        = "lex-pack-logistics"
 version     = "0.1.0"
-description = "Logistics domain pack — truck, depot, and TMS LLM-driven agent personas + tools, built on lex-soft/lex-agent."
+description = "Logistics domain pack — truck, depot, TMS, shipper/consignee/seller, and eMSP LLM-driven agent personas + the demo registry seed, built on lex-soft/lex-agent."
 
 [dependencies]
 lex-soft   = { git = "https://github.com/alpibrusl/lex-soft" }
 lex-agent  = { git = "https://github.com/alpibrusl/lex-agent" }
 lex-llm    = { git = "https://github.com/alpibrusl/lex-llm" }
-lex-web    = { git = "https://github.com/alpibrusl/lex-web" }
+lex-spec   = { git = "https://github.com/alpibrusl/lex-spec" }
 lex-schema = { git = "https://github.com/alpibrusl/lex-schema" }
-lex-log    = { git = "https://github.com/alpibrusl/lex-log" }
