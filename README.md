@@ -24,4 +24,8 @@ Part of the lex-soft pack family: `lex-soft` (engine) -> this pack (persona buil
 
 ## License
 
-Matches the rest of the lex ecosystem.
+
+Copyright (c) 2026 lex-pack-logistics contributors.
+
+Licensed under the [EUPL-1.2](LICENSE) — the European Union Public Licence, as used across the `lex-*` ecosystem.
+
